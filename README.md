@@ -1,6 +1,6 @@
 This folder contains simple ESP32 programs to help beginners get started with basic operations like blinking an LED, printing messages, reading sensors, and connecting to Wi-Fi.
 
-## Requirements
+# Requirements
 
  ESP32 Development Board
 
@@ -8,31 +8,31 @@ This folder contains simple ESP32 programs to help beginners get started with ba
 
  USB cable for uploading code
 
-## Included Codes
+# Included Codes
 
-# LED Blink
+## LED Blink
 
 Turns an LED ON and OFF every second.
 
 Uses GPIO2 or the onboard LED.
 
-# Serial Print
+## Serial Print
 
 Prints messages on the Serial Monitor for testing communication.
 
-# Button Input
+## Button Input
 
 Reads the state of a button and turns ON an LED when pressed.
 
-# Analog Sensor Read
+## Analog Sensor Read
 
 Reads analog values from a sensor (like LDR or potentiometer) on pin 34.
 
-# Wi-Fi Connection
+## Wi-Fi Connection
 
 Connects the ESP32 to a Wi-Fi network and prints the IP address.
 
-## How to Upload
+# How to Upload
 
  Open any .ino file in Arduino IDE.
 
@@ -44,7 +44,7 @@ Connects the ESP32 to a Wi-Fi network and prints the IP address.
 
  Open Serial Monitor (115200 baud) to view output.
 
-## Expected Output
+# Expected Output
 
  LED blinks or responds to button press.
 
