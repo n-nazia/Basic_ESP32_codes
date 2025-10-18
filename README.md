@@ -2,11 +2,11 @@ This folder contains simple ESP32 programs to help beginners get started with ba
 
 ## Requirements
 
-# ESP32 Development Board
+ ESP32 Development Board
 
-# Arduino IDE (with ESP32 board package installed)
+ Arduino IDE (with ESP32 board package installed)
 
-# USB cable for uploading code
+ USB cable for uploading code
 
 ## Included Codes
 
@@ -34,20 +34,20 @@ Connects the ESP32 to a Wi-Fi network and prints the IP address.
 
 ## How to Upload
 
-# Open any .ino file in Arduino IDE.
+ Open any .ino file in Arduino IDE.
 
-# Select your Board → “ESP32 Dev Module”.
+ Select your Board → “ESP32 Dev Module”.
 
-# Select the correct Port.
+ Select the correct Port.
 
-# Click Upload (→).
+ Click Upload (→).
 
-# Open Serial Monitor (115200 baud) to view output.
+ Open Serial Monitor (115200 baud) to view output.
 
 ## Expected Output
 
-# LED blinks or responds to button press.
+ LED blinks or responds to button press.
 
-# Sensor values or messages appear in Serial Monitor.
+ Sensor values or messages appear in Serial Monitor.
 
-# Wi-Fi example shows the ESP32’s IP address once connected.
+ Wi-Fi example shows the ESP32’s IP address once connected.
